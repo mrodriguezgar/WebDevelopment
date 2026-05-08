@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bio | Moises Rodriguez Garza</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Moises Rodriguez Garza</h1>
+    </header>
+
+    <nav>
+        <a href=Web.zip/"index.html">Bio</a>
+        <a href=Web.zip/"cv.html">CV</a>
+        <a href=Web.zip/"gallery.html">Gallery</a>
+    </nav>
+
+    <div class="container">
+
+        <h2>Personal Bio Statement</h2>
+
+        <p>
+            I am a dedicated student at the University of Texas at El Paso,
+            currently pursuing a degree in Accounting. My academic focus is
+            centered on understanding the complexities of financial information
+            systems and how they drive decision-making in the modern business world.
+        </p>
+
+        <h2>Professional and Personal Interests</h2>
+
+        <p>
+            My professional interests include corporate finance, auditing, and
+            the evolving landscape of information technology in business.
+            I am particularly interested in how data analytics can improve
+            financial accuracy.
+        </p>
+
+        <p>
+            Outside of the classroom, I enjoy staying active, working on businesses, and exploring new developments in the technology sector.
+        </p>
+
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Moises Rodriguez Garza | UTEP Student</p>
+    </footer>
+
+</body>
+
+</html>
